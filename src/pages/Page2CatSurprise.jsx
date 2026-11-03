@@ -87,10 +87,7 @@ export default function Page2CatSurprise({ onNext, onBack }) {
         ) : (
           <div />
         )}
-        <div className="px-3.5 py-1 rounded-full bg-white/90 border border-[#f8c8d5] text-[11px] font-handwriting font-bold text-[#72173e] shadow-xs flex items-center gap-1.5">
-          <span>🐻 Bubu & Dudu Surprise</span>
-          <span>🎁</span>
-        </div>
+        <div />
       </div>
 
       {/* Main Center Area */}
