@@ -209,7 +209,7 @@ export default function Page2CatSurprise({ onNext, onBack }) {
               </p>
 
               {/* Actual Animated Angry Bubu from Reference */}
-              <div className="relative my-2 w-64 sm:w-72 aspect-[300/248] rounded-2xl overflow-hidden flex items-center justify-center filter drop-shadow-lg bg-white/50 border border-white/70 p-2">
+              <div className="relative my-2 w-64 sm:w-72 aspect-[295/205] rounded-2xl overflow-hidden flex items-center justify-center filter drop-shadow-lg bg-white/50 border border-white/70 p-2">
                 <img
                   src="/moments/animations/bubu-dudu-angry.gif"
                   alt="Why did you click no!"
